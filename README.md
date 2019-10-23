@@ -1,5 +1,19 @@
-# aspnet-core-3-basic-authentication-api
+API para autenticarse con HTTP básica en ASP.NET Core 3.0 C#
 
-ASP.NET Core 3.0 - Basic HTTP Authentication API
 
-For documentation and instructions check out https://jasonwatmore.com/post/2019/10/21/aspnet-core-3-basic-authentication-tutorial-with-example-api
+### Pre-requisitos 📋
+
+* Visual studio 2019 / Visual Studio Code
+* Net Core 3.0
+* Postman
+
+## Comenzando 🚀
+La API tiene dos end-points para demostrar la autenticación basica HTTP  y acceder a una ruta restringida.
+
+* /users/authenticate
+* /users
+
+
+## Autor ✒️
+
+ISC.Magdiel Efrain Palacios Rivera.
