@@ -1,7 +1,6 @@
 # BasicAuthUser
 API para autenticarse con HTTP básica en ASP.NET Core 3.0 C#
 
-
 ### Pre-requisitos 📋
 
 * Visual studio 2019 / Visual Studio Code
@@ -13,7 +12,6 @@ La API tiene dos end-points para demostrar la autenticación basica HTTP  y acce
 
 * /users/authenticate
 * /users
-
 
 ## Autor ✒️
 
